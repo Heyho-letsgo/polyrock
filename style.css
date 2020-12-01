@@ -1,0 +1,16 @@
+/*style.css*/
+body{
+	padding-top: 70px;
+	font-family: 'Kufam', cursive;
+}
+
+h1{
+	font-family: 'Grandstander', cursive;
+}
+
+.navbar-custom {
+    background-color: #12B34C;
+}
+.navbar-brand {
+    color: white;
+}
